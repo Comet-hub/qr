@@ -4,23 +4,27 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshots](#screenshots)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+  - [Author](#author)
 
 ## Overview
 
 ### Screenshots
 
-<div style="text-align: center;">
+<p lign="center">
   <img  src="screenshots/Desktop.png" alt="Desktop View" >
-</div>
-<div style="text-align: center;">
+</p>
+<p align="center">
   <img  src="screenshots/Mobile.png" alt="Mobile View" >
-</div>
+</p>
 
 ### Links
 
@@ -34,6 +38,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+  
+### What I learned
+
+In this first challenge I learned how to create and edit markdown files.
+
+### Continued development
+
+I want to continue to focus on CSS, the use of flexbox and the BEM methodology.
 
 ## Author
 

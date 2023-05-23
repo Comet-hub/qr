@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshots
 
-<p lign="center">
+<p align="center">
   <img  src="screenshots/Desktop.png" alt="Desktop View" >
 </p>
 <p align="center">
@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QR Code](https://github.com/tu1ip/qr)
-- Live Site URL: [QR Page](https://tu1ip.github.io/qr/)
+- Solution URL: [QR Code](https://github.com/Comet-hub/qr)
+- Live Site URL: [QR Page](https://comet-hub.github.io/qr/)
 
 ## My process
 
@@ -49,4 +49,4 @@ I want to continue to focus on CSS, the use of flexbox and the BEM methodology.
 
 ## Author
 
-- Frontend Mentor - [@tu1ip](https://www.frontendmentor.io/profile/tu1ip)
+- Frontend Mentor - [Camilo Castellanos](https://www.frontendmentor.io/profile/tu1ip)
